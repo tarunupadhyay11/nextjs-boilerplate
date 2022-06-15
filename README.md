@@ -1,2 +1,2 @@
-# nextjs-boilerplate
-Nextjs boilerplate
+# Next js
+Nextjs redux boilerplate
