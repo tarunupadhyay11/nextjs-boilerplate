@@ -13,9 +13,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-           Next.js boilerplate!
+          Welcome to Next.js boilerplate!
         </h1>
         <p>Next js with redux</p>
+        <p>So many features comming soon</p>
 
       </main>
     </div>
